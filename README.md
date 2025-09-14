@@ -48,6 +48,7 @@ BTCUSD
 <img width="643" height="541" alt="image" src="https://github.com/user-attachments/assets/041cd753-c3ff-4837-b83a-34dec44a05dc" />
 <img width="630" height="149" alt="image" src="https://github.com/user-attachments/assets/4b6b8978-fffe-441c-9ece-dbd0d230fa90" />
 
+- Back test video link: https://www.youtube.com/watch?v=EsOjwAkHq9o
 <br/>
 
 
@@ -55,6 +56,8 @@ XAUUSD
 - Back test date 2025/07/01-2025/09/01
 <img width="636" height="564" alt="image" src="https://github.com/user-attachments/assets/0fda5e66-dabd-4fd2-a066-06757c009bf5" />
 <img width="628" height="154" alt="image" src="https://github.com/user-attachments/assets/113230a4-000d-4b51-ad5f-3b79ad23a711" />
+
+- Back test video link: https://www.youtube.com/watch?v=JMn074DpgNY
 <br/>
 
 
