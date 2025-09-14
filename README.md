@@ -36,3 +36,38 @@ Assume the distance from the Buy Line to the Sell Line is x; then the distance t
 <br/>
 
 - No weekend trading since liquidity and volume are lower.
+<br/>
+<br/>
+<br/>
+
+# Outcome
+
+BTCUSD
+- Back test date 2025/07/01-2025/09/01
+<img width="643" height="541" alt="image" src="https://github.com/user-attachments/assets/041cd753-c3ff-4837-b83a-34dec44a05dc" />
+<img width="630" height="149" alt="image" src="https://github.com/user-attachments/assets/4b6b8978-fffe-441c-9ece-dbd0d230fa90" />
+
+<br/>
+
+
+XAUUSD
+- Back test date 2025/07/01-2025/09/01
+<img width="636" height="564" alt="image" src="https://github.com/user-attachments/assets/0fda5e66-dabd-4fd2-a066-06757c009bf5" />
+<img width="628" height="154" alt="image" src="https://github.com/user-attachments/assets/113230a4-000d-4b51-ad5f-3b79ad23a711" />
+<br/>
+
+
+Lots of commentary online claiming the zone recovery trading strategy is a 100% win rate strategy. 
+In theory that’s true, but only if you have unlimited capital. 
+
+Due to the result of the trading bot, with limited capital, it's not profitability in long term. even after excluding commissions, the profits are so tiny, that one should just buy spot.
+
+I fell Zone recovery a lot like martingale trading strategy. “Theoretically” 100% win rate, but actually the strategy is risking very large losses to capture very small gains. In other words, betting the price will hit the exit line before you run out of money.
+
+
+
+
+
+
+
+
