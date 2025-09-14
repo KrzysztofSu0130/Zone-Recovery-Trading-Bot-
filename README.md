@@ -33,10 +33,11 @@ Assume the distance from the Buy Line to the Sell Line is x; then the distance t
 - Due to limited capital, there'll bee a maximum number of entries.
     - Once that max is reached, no further orders will be placed.
     - It might cause a loss if price moves against the final entry.
-<br/>
+      
+- If the last open position is a buy order, then Sell Line becomes the exit line; if the last open position is a sell order, then Buy Line becomes the exit line.
+    - This helps limit risk and reduce losses.  
 
 - No weekend trading since liquidity and volume are lower.
-<br/>
 <br/>
 <br/>
 
