@@ -62,12 +62,11 @@ XAUUSD
 
 
 Lots of commentary online claiming the zone recovery trading strategy is a 100% win rate strategy. 
-In theory that’s true, but only if you have unlimited capital. 
+In theory, that's true, but only if you have unlimited capital.
 
-Due to the result of the trading bot, with limited capital, it's not profitability in long term. even after excluding commissions, the profits are so tiny, that one should just buy spot.
+Due to the result of the trading bot, with limited capital, it's not profitable in the long term. Even after excluding commissions, the profits are so tiny that one should just buy spot.
 
-I fell Zone recovery a lot like martingale trading strategy. “Theoretically” 100% win rate, but actually the strategy is risking very large losses to capture very small gains. In other words, betting the price will hit the exit line before you run out of money.
-
+I feel Zone recovery is a lot like a martingale trading strategy. "Theoretically" 100% win rate, but actually the strategy is risking very large losses to capture very small gains. In other words, betting the price will hit the exit line before you run out of money.
 
 
 
